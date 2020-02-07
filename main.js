@@ -16,4 +16,4 @@ window.addEventListener('keydown', event => {
   }
 });
 
-onTouch()
+detectswipe('mobile', myfunction);
